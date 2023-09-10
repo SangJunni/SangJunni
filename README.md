@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![SangJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjunni&show_icons=true&theme=transparent&count_private=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonsj0322)](https://solved.ac/yoonsj0322/)
 [![Banner](https://banner.codetree.ai/v1/banner/yoonsj0322)](https://www.codetree.ai/profiles/yoonsj0322)
 <!--
 **SangJunni/SangJunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
