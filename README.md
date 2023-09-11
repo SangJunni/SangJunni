@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![SangJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjunni&show_icons=true&theme=transparent&count_private=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonsj0322)](https://solved.ac/yoonsj0322/)
+### Solved.ac and Codetree
+<a href="https://solved.ac/profile/yoonsj0322"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoonsj0322"/>
+<a href="https://solved.ac/profile/yoonsj0322"><img src="http://mazandi.herokuapp.com/api?handle=yoonsj0322&theme=warm"/>
 [![Banner](https://banner.codetree.ai/v1/banner/yoonsj0322)](https://www.codetree.ai/profiles/yoonsj0322)
 <!--
 **SangJunni/SangJunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
