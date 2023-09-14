@@ -1,5 +1,5 @@
 ### Hi there 👋
-![SangJun's GitHub stats](https://github-readme-stats-dun-eight-68.vercel.app/api?username=sangjunni&show_icons=true&theme=transparent&count_private=true)
+![SangJun's GitHub stats](https://github-readme-stats-dun-eight-68.vercel.app/api?username=sangjunni&show_icons=true&theme=transparent&count-private=true)
 
 ### Solved.ac and Codetree
 <a href="https://solved.ac/profile/yoonsj0322"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoonsj0322"/>
