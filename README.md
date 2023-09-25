@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=dafbe1&height=150&section=header&text=Hi%20there%20👋&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
 ![SangJun's GitHub stats](https://github-readme-stats-dun-eight-68.vercel.app/api?username=sangjunni&show_icons=true&theme=transparent?count_private=True)
 
 ### Solved.ac and Codetree
