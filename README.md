@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dafbe1&height=150&section=header&text=Hi%20there%20👋&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-### Solved.ac and Codetree
+### Solved.ac
 <a href="https://solved.ac/profile/yoonsj0322"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoonsj0322"/>
 <a href="https://solved.ac/profile/yoonsj0322"><img src="http://mazandi.herokuapp.com/api?handle=yoonsj0322&theme=warm"/>
 <!--
